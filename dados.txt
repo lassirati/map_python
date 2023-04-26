@@ -1,0 +1,4 @@
+produto,valor
+tv,1000
+telefone,500
+radio,200
